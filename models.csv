@@ -1,0 +1,2 @@
+name,display_name,version,model_type,platform,capability,pattern_file,filter_file,application_file
+cert-manager-autorenewal,Cert Manager Auto Renewal,v1.0.0,Pattern,Kubernetes,Automatically renew TLS certificates using cert-manager and ClusterIssuer,cert-manager-pattern.yaml,,
